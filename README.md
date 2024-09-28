@@ -1,1 +1,2 @@
 # SeguridadInformatica
+En esta sección encontrará algunos programas en los que hago demostraciones de como crear aplicaciones que controlen o verifiquen la seguridad de los sistemas operativos. Son programas principalmente desarrollados para especialistas en Seguridad Informática (como yo) y para algunos alumnos avanzados de programación. Estos programas suelen tener un alto nivel de integración a librearías de sporte o APIs
